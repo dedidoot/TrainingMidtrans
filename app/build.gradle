@@ -26,5 +26,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation 'com.midtrans:uikit:1.19.0' // change the number to the latest version
+    //implementation 'com.midtrans:corekit:1.19.0'
 
 }
